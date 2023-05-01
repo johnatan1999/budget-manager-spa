@@ -1,0 +1,6542 @@
+[
+    {
+       "date":"2022-10-27T22:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ovy sy patsa"
+    },
+    {
+       "date":"2022-10-27T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Panini"
+    },
+    {
+       "date":"2022-10-27T22:20:00.000Z",
+       "amount":-7000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Taxi moto LMA"
+    },
+    {
+       "date":"2022-10-27T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain au raisin"
+    },
+    {
+       "date":"2022-10-27T22:40:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mr Remy akti+"
+    },
+    {
+       "date":"2022-10-27T22:50:00.000Z",
+       "amount":-7000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Autorisation parental cotisse"
+    },
+    {
+       "date":"2022-10-26T22:00:00.000Z",
+       "amount":-3900,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti"
+    },
+    {
+       "date":"2022-10-26T22:10:00.000Z",
+       "amount":100000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-10-26T22:20:00.000Z",
+       "amount":-8800,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt x 8"
+    },
+    {
+       "date":"2022-10-26T22:30:00.000Z",
+       "amount":-5700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sole 300g"
+    },
+    {
+       "date":"2022-10-26T22:40:00.000Z",
+       "amount":-3800,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume &amp; totokena"
+    },
+    {
+       "date":"2022-10-26T22:50:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-10-25T22:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe Tongotr'omby"
+    },
+    {
+       "date":"2022-10-25T22:10:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-10-25T22:20:00.000Z",
+       "amount":-7700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Côte pané"
+    },
+    {
+       "date":"2022-10-25T22:30:00.000Z",
+       "amount":-2600,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Dossier enquête de moralité"
+    },
+    {
+       "date":"2022-10-25T22:40:00.000Z",
+       "amount":-5500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Harico vert + côtelettes"
+    },
+    {
+       "date":"2022-10-25T22:50:00.000Z",
+       "amount":-3600,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais bus"
+    },
+    {
+       "date":"2022-10-25T23:00:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Impression couleur x 4"
+    },
+    {
+       "date":"2022-10-25T23:10:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana + menakely x 2"
+    },
+    {
+       "date":"2022-10-25T23:20:00.000Z",
+       "amount":-6500,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Beurre (marna gold)"
+    },
+    {
+       "date":"2022-10-24T22:00:00.000Z",
+       "amount":-2600,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe Tongotr'omby + samosa x3"
+    },
+    {
+       "date":"2022-10-24T22:10:00.000Z",
+       "amount":-2100,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu + mouchoir"
+    },
+    {
+       "date":"2022-10-24T22:20:00.000Z",
+       "amount":75000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-10-24T22:30:00.000Z",
+       "amount":-25000,
+       "category":{
+          "name":"Vehicles, chattels",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Assurance exam conduite"
+    },
+    {
+       "date":"2022-10-24T22:40:00.000Z",
+       "amount":-7200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-10-24T22:50:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Certificat medical"
+    },
+    {
+       "date":"2022-10-24T23:00:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana + menakely x 2"
+    },
+    {
+       "date":"2022-10-23T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"PQ x 2"
+    },
+    {
+       "date":"2022-10-23T22:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Missing",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Coif Toky"
+    },
+    {
+       "date":"2022-10-23T22:20:00.000Z",
+       "amount":-30000,
+       "category":{
+          "name":"Credit",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Credit"
+    },
+    {
+       "date":"2022-10-23T22:30:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-10-23T22:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Patate"
+    },
+    {
+       "date":"2022-10-23T22:50:00.000Z",
+       "amount":-12800,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Contrat"
+    },
+    {
+       "date":"2022-10-23T23:00:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mouchoir + Masque"
+    },
+    {
+       "date":"2022-10-23T23:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Légalisation lettre de consentement"
+    },
+    {
+       "date":"2022-10-23T23:20:00.000Z",
+       "amount":-5600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tsaramaso sy henaks"
+    },
+    {
+       "date":"2022-10-23T23:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mpanotra"
+    },
+    {
+       "date":"2022-10-23T23:40:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana x2  + Menakely x2"
+    },
+    {
+       "date":"2022-10-22T22:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Totokena 250g"
+    },
+    {
+       "date":"2022-10-22T22:10:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-10-22T22:20:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bananes 500g"
+    },
+    {
+       "date":"2022-10-22T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-10-21T22:00:00.000Z",
+       "amount":100000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-10-21T22:10:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu Salle by Army"
+    },
+    {
+       "date":"2022-10-21T22:20:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Esquimaux x 2"
+    },
+    {
+       "date":"2022-10-21T22:30:00.000Z",
+       "amount":-18650,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt"
+    },
+    {
+       "date":"2022-10-21T22:40:00.000Z",
+       "amount":-3850,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti"
+    },
+    {
+       "date":"2022-10-21T22:50:00.000Z",
+       "amount":-3900,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ovy sy patsa"
+    },
+    {
+       "date":"2022-10-21T23:00:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Sam"
+    },
+    {
+       "date":"2022-10-21T23:10:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 4"
+    },
+    {
+       "date":"2022-10-20T22:00:00.000Z",
+       "amount":-4400,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Commune"
+    },
+    {
+       "date":"2022-10-20T22:10:00.000Z",
+       "amount":-7000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Fokotany"
+    },
+    {
+       "date":"2022-10-20T22:20:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bus x4"
+    },
+    {
+       "date":"2022-10-20T22:30:00.000Z",
+       "amount":-8600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Crevette sy ovy"
+    },
+    {
+       "date":"2022-10-20T22:40:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Missing",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Paka bol"
+    },
+    {
+       "date":"2022-10-20T22:50:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-10-20T23:00:00.000Z",
+       "amount":-2100,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Donate + Yaourt x 2"
+    },
+    {
+       "date":"2022-10-20T23:10:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-10-20T23:20:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-10-19T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mpanotra"
+    },
+    {
+       "date":"2022-10-19T22:10:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-10-19T22:20:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-10-19T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-10-19T22:40:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bus"
+    },
+    {
+       "date":"2022-10-19T22:50:00.000Z",
+       "amount":-12000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Panini + milkshake extra"
+    },
+    {
+       "date":"2022-10-19T23:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain au raisin"
+    },
+    {
+       "date":"2022-10-19T23:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"PQ x 2"
+    },
+    {
+       "date":"2022-10-19T23:20:00.000Z",
+       "amount":-7600,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Akoho sy petit pois"
+    },
+    {
+       "date":"2022-10-18T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mpanotra"
+    },
+    {
+       "date":"2022-10-18T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Salade de museaux"
+    },
+    {
+       "date":"2022-10-18T22:20:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Patachou"
+    },
+    {
+       "date":"2022-10-18T22:30:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Eau vive"
+    },
+    {
+       "date":"2022-10-18T22:40:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Burger x 2"
+    },
+    {
+       "date":"2022-10-18T22:50:00.000Z",
+       "amount":-1800,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Gateau + yaourt"
+    },
+    {
+       "date":"2022-10-18T23:00:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-10-18T23:10:00.000Z",
+       "amount":-3800,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Steak 200g"
+    },
+    {
+       "date":"2022-10-17T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu + mouchoir"
+    },
+    {
+       "date":"2022-10-17T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bananes 500g"
+    },
+    {
+       "date":"2022-10-17T22:20:00.000Z",
+       "amount":-7000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume sauté+ sorony"
+    },
+    {
+       "date":"2022-10-17T22:30:00.000Z",
+       "amount":50000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-10-17T22:40:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Chocolatines"
+    },
+    {
+       "date":"2022-10-17T22:50:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lait 1L"
+    },
+    {
+       "date":"2022-10-17T23:00:00.000Z",
+       "amount":-4100,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe legume"
+    },
+    {
+       "date":"2022-10-17T23:10:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Eau vive"
+    },
+    {
+       "date":"2022-10-16T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mpanotra"
+    },
+    {
+       "date":"2022-10-16T22:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-10-16T22:20:00.000Z",
+       "amount":-6500,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cake"
+    },
+    {
+       "date":"2022-10-16T22:30:00.000Z",
+       "amount":-2100,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline + mouchoir"
+    },
+    {
+       "date":"2022-10-16T22:40:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Collation"
+    },
+    {
+       "date":"2022-10-16T22:50:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Certifications lettre d'engagement"
+    },
+    {
+       "date":"2022-10-16T23:00:00.000Z",
+       "amount":-1100,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Papier velain"
+    },
+    {
+       "date":"2022-10-16T23:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Certificat de bonne conduite"
+    },
+    {
+       "date":"2022-10-16T23:20:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Anana sy totokena"
+    },
+    {
+       "date":"2022-10-16T23:30:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2k"
+    },
+    {
+       "date":"2022-10-16T23:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mpanotra"
+    },
+    {
+       "date":"2022-10-16T23:50:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 4"
+    },
+    {
+       "date":"2022-10-15T22:00:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sauce"
+    },
+    {
+       "date":"2022-10-15T22:10:00.000Z",
+       "amount":-4800,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Voanjo 3kpk"
+    },
+    {
+       "date":"2022-10-15T22:20:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Esquimaux"
+    },
+    {
+       "date":"2022-10-15T22:30:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savon lessive"
+    },
+    {
+       "date":"2022-10-15T22:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mpanotra"
+    },
+    {
+       "date":"2022-10-15T22:50:00.000Z",
+       "amount":-13600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cassoulet"
+    },
+    {
+       "date":"2022-10-15T23:00:00.000Z",
+       "amount":-6000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tee-shirt"
+    },
+    {
+       "date":"2022-10-15T23:10:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Charity, gifts",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Raquette Cotisse"
+    },
+    {
+       "date":"2022-10-15T23:20:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 4"
+    },
+    {
+       "date":"2022-10-14T22:00:00.000Z",
+       "amount":-5540,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sandwich x 2"
+    },
+    {
+       "date":"2022-10-14T22:10:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Active sport, fitness"
+    },
+    {
+       "date":"2022-10-14T22:20:00.000Z",
+       "amount":-5600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti carbonara"
+    },
+    {
+       "date":"2022-10-14T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mpanotra"
+    },
+    {
+       "date":"2022-10-14T22:40:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-10-14T22:50:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lait 2L"
+    },
+    {
+       "date":"2022-10-13T22:00:00.000Z",
+       "amount":-10500,
+       "category":{
+          "name":"Bar, cafe",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Revy"
+    },
+    {
+       "date":"2022-10-13T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Burger 🍔"
+    },
+    {
+       "date":"2022-10-13T22:20:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Côtelettes &amp; Voanjobory"
+    },
+    {
+       "date":"2022-10-13T22:30:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Eau vive"
+    },
+    {
+       "date":"2022-10-13T22:40:00.000Z",
+       "amount":-2700,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Gauffre + Yaourt"
+    },
+    {
+       "date":"2022-10-13T22:50:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-10-13T23:00:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-10-12T22:00:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mpanotra"
+    },
+    {
+       "date":"2022-10-12T22:10:00.000Z",
+       "amount":-1800,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bananes"
+    },
+    {
+       "date":"2022-10-12T22:20:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe spécial"
+    },
+    {
+       "date":"2022-10-12T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu + mouchoir"
+    },
+    {
+       "date":"2022-10-12T22:40:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Rouleau de printemps"
+    },
+    {
+       "date":"2022-10-12T22:50:00.000Z",
+       "amount":-7000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Certifications CIN + Passeport"
+    },
+    {
+       "date":"2022-10-12T23:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Impression Dossier FOP"
+    },
+    {
+       "date":"2022-10-12T23:10:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-10-12T23:20:00.000Z",
+       "amount":-5600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Totokena sy haricot vert"
+    },
+    {
+       "date":"2022-10-12T23:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-10-11T22:00:00.000Z",
+       "amount":-3600,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savon"
+    },
+    {
+       "date":"2022-10-11T22:10:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Carburant"
+    },
+    {
+       "date":"2022-10-11T22:20:00.000Z",
+       "amount":-589000,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Fais VISA TLS"
+    },
+    {
+       "date":"2022-10-11T22:30:00.000Z",
+       "amount":-45000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Extra Pizza 🍕"
+    },
+    {
+       "date":"2022-10-11T22:40:00.000Z",
+       "amount":800000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Salaire"
+    },
+    {
+       "date":"2022-10-11T22:50:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Credit",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Dépôt Mvola creds"
+    },
+    {
+       "date":"2022-10-11T23:00:00.000Z",
+       "amount":-11700,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Dssier TLS"
+    },
+    {
+       "date":"2022-10-11T23:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-10-11T23:20:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Stationery, tools",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Certificat de Résidence"
+    },
+    {
+       "date":"2022-10-11T23:30:00.000Z",
+       "amount":-1700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-10-10T22:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Poker"
+    },
+    {
+       "date":"2022-10-10T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Salade de museaux"
+    },
+    {
+       "date":"2022-10-10T22:20:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Burger"
+    },
+    {
+       "date":"2022-10-10T22:30:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-10-10T22:40:00.000Z",
+       "amount":-12000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Huile de tournesol 🌻"
+    },
+    {
+       "date":"2022-10-10T22:50:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Anana sy totokena"
+    },
+    {
+       "date":"2022-10-10T23:00:00.000Z",
+       "amount":-6000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Porc 250g + légumes sautés"
+    },
+    {
+       "date":"2022-10-09T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-10-09T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 2"
+    },
+    {
+       "date":"2022-10-09T22:20:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-10-09T22:30:00.000Z",
+       "amount":-4400,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt x 4"
+    },
+    {
+       "date":"2022-10-09T22:40:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 4"
+    },
+    {
+       "date":"2022-10-09T22:50:00.000Z",
+       "amount":-1700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-10-08T22:00:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 2"
+    },
+    {
+       "date":"2022-10-08T22:10:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-10-08T22:20:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Nomena &amp; Sam"
+    },
+    {
+       "date":"2022-10-08T22:30:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Jogs"
+    },
+    {
+       "date":"2022-10-08T22:40:00.000Z",
+       "amount":-3850,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti"
+    },
+    {
+       "date":"2022-10-08T22:50:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"PQ x 2"
+    },
+    {
+       "date":"2022-10-08T23:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lait 2L"
+    },
+    {
+       "date":"2022-10-08T23:10:00.000Z",
+       "amount":-7400,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cassoulet"
+    },
+    {
+       "date":"2022-10-08T23:20:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 4"
+    },
+    {
+       "date":"2022-10-07T22:00:00.000Z",
+       "amount":-46000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Deo + Shampooing"
+    },
+    {
+       "date":"2022-10-07T22:10:00.000Z",
+       "amount":-4500,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ovy sy patsa"
+    },
+    {
+       "date":"2022-10-07T22:20:00.000Z",
+       "amount":-5490,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Candia lait 1L"
+    },
+    {
+       "date":"2022-10-07T22:30:00.000Z",
+       "amount":-2060,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yourt parf. x 2"
+    },
+    {
+       "date":"2022-10-07T22:40:00.000Z",
+       "amount":-9340,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt nat. x 4 + 2 Big"
+    },
+    {
+       "date":"2022-10-07T22:50:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savon lessive"
+    },
+    {
+       "date":"2022-10-06T22:00:00.000Z",
+       "amount":-15800,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Flocon d'avoine x 2"
+    },
+    {
+       "date":"2022-10-06T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Misao Jex"
+    },
+    {
+       "date":"2022-10-06T22:20:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lottery, gambling"
+    },
+    {
+       "date":"2022-10-06T22:30:00.000Z",
+       "amount":-5500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Entre côte+ voanjobory"
+    },
+    {
+       "date":"2022-10-06T22:40:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Nomena"
+    },
+    {
+       "date":"2022-10-06T22:50:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Eau vive"
+    },
+    {
+       "date":"2022-10-06T23:00:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais bus"
+    },
+    {
+       "date":"2022-10-06T23:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Légumes sautés+ steak"
+    },
+    {
+       "date":"2022-10-06T23:20:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sandwich poisson"
+    },
+    {
+       "date":"2022-10-05T22:00:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-10-05T22:10:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Burger x 2"
+    },
+    {
+       "date":"2022-10-05T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline + mouchoir"
+    },
+    {
+       "date":"2022-10-05T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cassoulet"
+    },
+    {
+       "date":"2022-10-05T22:40:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 4"
+    },
+    {
+       "date":"2022-10-04T22:00:00.000Z",
+       "amount":-10700,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain fromage"
+    },
+    {
+       "date":"2022-10-03T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Poker"
+    },
+    {
+       "date":"2022-10-03T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Patachou"
+    },
+    {
+       "date":"2022-10-03T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Nomena &amp; Sam"
+    },
+    {
+       "date":"2022-10-03T22:30:00.000Z",
+       "amount":-5700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Blanc de poulet 250g"
+    },
+    {
+       "date":"2022-10-03T22:40:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Crista + donate"
+    },
+    {
+       "date":"2022-10-03T22:50:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume"
+    },
+    {
+       "date":"2022-10-03T23:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-10-03T23:10:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 6"
+    },
+    {
+       "date":"2022-10-02T22:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe Tongotr'omby"
+    },
+    {
+       "date":"2022-10-02T22:10:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-10-02T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-10-02T22:30:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 5"
+    },
+    {
+       "date":"2022-10-02T22:40:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Droit d'examen  akti+"
+    },
+    {
+       "date":"2022-10-02T22:50:00.000Z",
+       "amount":-11000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Panini + jus de 🍓"
+    },
+    {
+       "date":"2022-10-02T23:00:00.000Z",
+       "amount":-4400,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit pois + saucisses"
+    },
+    {
+       "date":"2022-10-02T23:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-10-02T23:20:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 8"
+    },
+    {
+       "date":"2022-10-01T22:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Misao Special"
+    },
+    {
+       "date":"2022-10-01T22:10:00.000Z",
+       "amount":-11500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cassoulet"
+    },
+    {
+       "date":"2022-10-01T22:20:00.000Z",
+       "amount":-9200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Thon"
+    },
+    {
+       "date":"2022-10-01T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savon lessive"
+    },
+    {
+       "date":"2022-10-01T22:40:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 2"
+    },
+    {
+       "date":"2022-09-30T22:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain fromage"
+    },
+    {
+       "date":"2022-09-30T22:10:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Survette"
+    },
+    {
+       "date":"2022-09-30T22:20:00.000Z",
+       "amount":-27000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Gaz"
+    },
+    {
+       "date":"2022-09-30T22:30:00.000Z",
+       "amount":-11200,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt nat. x 12"
+    },
+    {
+       "date":"2022-09-30T22:40:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bus"
+    },
+    {
+       "date":"2022-09-30T22:50:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-30T23:00:00.000Z",
+       "amount":-25000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tsatsaka Akti+"
+    },
+    {
+       "date":"2022-09-30T23:10:00.000Z",
+       "amount":400000,
+       "category":{
+          "name":"Refunds (tax, purchase)",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Pneu papa"
+    },
+    {
+       "date":"2022-09-30T23:20:00.000Z",
+       "amount":240000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Salaire"
+    },
+    {
+       "date":"2022-09-29T22:00:00.000Z",
+       "amount":-40000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ecolage Sam + Nomena"
+    },
+    {
+       "date":"2022-09-29T22:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Misao garnie Tsila"
+    },
+    {
+       "date":"2022-09-29T22:20:00.000Z",
+       "amount":-3100,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tsila"
+    },
+    {
+       "date":"2022-09-29T22:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-09-29T22:40:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-09-28T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-28T22:10:00.000Z",
+       "amount":-5800,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yourt x 4 + 18 petits beurre"
+    },
+    {
+       "date":"2022-09-28T22:20:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-09-28T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-09-28T22:40:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 8"
+    },
+    {
+       "date":"2022-09-27T22:00:00.000Z",
+       "amount":-3010,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti"
+    },
+    {
+       "date":"2022-09-27T22:10:00.000Z",
+       "amount":-2260,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soja"
+    },
+    {
+       "date":"2022-09-27T22:20:00.000Z",
+       "amount":-11160,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt nat. x 12"
+    },
+    {
+       "date":"2022-09-27T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume &amp; totokena"
+    },
+    {
+       "date":"2022-09-27T22:40:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 8"
+    },
+    {
+       "date":"2022-09-26T22:00:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-26T22:10:00.000Z",
+       "amount":-1900,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savon lessive"
+    },
+    {
+       "date":"2022-09-26T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Liquide vaisselle"
+    },
+    {
+       "date":"2022-09-26T22:30:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 6"
+    },
+    {
+       "date":"2022-09-25T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 4"
+    },
+    {
+       "date":"2022-09-25T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Dossier"
+    },
+    {
+       "date":"2022-09-25T22:20:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sucre 0.5"
+    },
+    {
+       "date":"2022-09-25T22:30:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ovy 1.5kg"
+    },
+    {
+       "date":"2022-09-25T22:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"PQ x 2"
+    },
+    {
+       "date":"2022-09-24T22:00:00.000Z",
+       "amount":-30000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Papa : Avavance ranaina"
+    },
+    {
+       "date":"2022-09-24T22:10:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Misao + sambosa"
+    },
+    {
+       "date":"2022-09-24T22:20:00.000Z",
+       "amount":-800,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Éponge"
+    },
+    {
+       "date":"2022-09-24T22:30:00.000Z",
+       "amount":-10300,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Coson 400g 7200ar+ legume 2500ar"
+    },
+    {
+       "date":"2022-09-24T22:40:00.000Z",
+       "amount":200000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-09-24T22:50:00.000Z",
+       "amount":-9300,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt nat. x 10"
+    },
+    {
+       "date":"2022-09-24T23:00:00.000Z",
+       "amount":-14010,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Huile de tournesol 🌻"
+    },
+    {
+       "date":"2022-09-24T23:10:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 6"
+    },
+    {
+       "date":"2022-09-23T22:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-09-23T22:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koson"
+    },
+    {
+       "date":"2022-09-23T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu + mouchoir"
+    },
+    {
+       "date":"2022-09-23T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Retaillage"
+    },
+    {
+       "date":"2022-09-23T22:40:00.000Z",
+       "amount":-1700,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savon lessive"
+    },
+    {
+       "date":"2022-09-23T22:50:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti bolognaise"
+    },
+    {
+       "date":"2022-09-23T23:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Coifs"
+    },
+    {
+       "date":"2022-09-23T23:10:00.000Z",
+       "amount":-1800,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain x 3"
+    },
+    {
+       "date":"2022-09-22T22:00:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe Tongotr'omby"
+    },
+    {
+       "date":"2022-09-22T22:10:00.000Z",
+       "amount":-3300,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Composé + 2 yaourt Tsila"
+    },
+    {
+       "date":"2022-09-22T22:20:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-09-22T22:30:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-09-22T22:40:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-09-22T22:50:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume"
+    },
+    {
+       "date":"2022-09-22T23:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Harena"
+    },
+    {
+       "date":"2022-09-21T22:00:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 3"
+    },
+    {
+       "date":"2022-09-21T22:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 4"
+    },
+    {
+       "date":"2022-09-21T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-09-21T22:30:00.000Z",
+       "amount":-6000,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit pois + kenatoto"
+    },
+    {
+       "date":"2022-09-21T22:40:00.000Z",
+       "amount":-38000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Papa : Clou 1kg + 41.500ar ciment"
+    },
+    {
+       "date":"2022-09-20T22:00:00.000Z",
+       "amount":-11300,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain + Frmage + Salami x 2"
+    },
+    {
+       "date":"2022-09-20T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ovy sy patsa"
+    },
+    {
+       "date":"2022-09-20T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Retaillage"
+    },
+    {
+       "date":"2022-09-20T22:30:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-19T22:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-09-19T22:10:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 3"
+    },
+    {
+       "date":"2022-09-19T22:20:00.000Z",
+       "amount":-11600,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt"
+    },
+    {
+       "date":"2022-09-19T22:30:00.000Z",
+       "amount":-32000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Papa : Clou 1kg + 41.500ar ciment"
+    },
+    {
+       "date":"2022-09-19T22:40:00.000Z",
+       "amount":-4900,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-09-18T22:00:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe chinoise"
+    },
+    {
+       "date":"2022-09-18T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain raisin ts misy raisin"
+    },
+    {
+       "date":"2022-09-18T22:20:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-09-18T22:30:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz cantonais"
+    },
+    {
+       "date":"2022-09-18T22:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain au raisin"
+    },
+    {
+       "date":"2022-09-18T22:50:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana + donate"
+    },
+    {
+       "date":"2022-09-18T23:00:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Groceries"
+    },
+    {
+       "date":"2022-09-18T23:10:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 4"
+    },
+    {
+       "date":"2022-09-18T23:20:00.000Z",
+       "amount":-4600,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lait 2L"
+    },
+    {
+       "date":"2022-09-17T22:00:00.000Z",
+       "amount":-1900,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Achard carottes"
+    },
+    {
+       "date":"2022-09-17T22:10:00.000Z",
+       "amount":-9000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Crevette 250g"
+    },
+    {
+       "date":"2022-09-17T22:20:00.000Z",
+       "amount":-8700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tsaramaso sy henaks"
+    },
+    {
+       "date":"2022-09-17T22:30:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-09-16T22:00:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ananas"
+    },
+    {
+       "date":"2022-09-16T22:10:00.000Z",
+       "amount":-800,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ovy 500g"
+    },
+    {
+       "date":"2022-09-16T22:20:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe legume"
+    },
+    {
+       "date":"2022-09-16T22:30:00.000Z",
+       "amount":-17000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pants"
+    },
+    {
+       "date":"2022-09-16T22:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savon lessive"
+    },
+    {
+       "date":"2022-09-16T22:50:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 2"
+    },
+    {
+       "date":"2022-09-15T22:00:00.000Z",
+       "amount":-48000,
+       "category":{
+          "name":"Alcohol, tobacco",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ehnica"
+    },
+    {
+       "date":"2022-09-15T22:10:00.000Z",
+       "amount":-15000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Revy"
+    },
+    {
+       "date":"2022-09-15T22:20:00.000Z",
+       "amount":100000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-09-15T22:30:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Poker"
+    },
+    {
+       "date":"2022-09-15T22:40:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Gaufre"
+    },
+    {
+       "date":"2022-09-15T22:50:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Comps Tsila"
+    },
+    {
+       "date":"2022-09-15T23:00:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-09-15T23:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt maison x 2"
+    },
+    {
+       "date":"2022-09-15T23:20:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-09-15T23:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-09-15T23:40:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-09-14T22:00:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Credit",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Credit"
+    },
+    {
+       "date":"2022-09-14T22:10:00.000Z",
+       "amount":-4500,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Baby-foot"
+    },
+    {
+       "date":"2022-09-14T22:20:00.000Z",
+       "amount":-7000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti carbonara apandrana"
+    },
+    {
+       "date":"2022-09-14T22:30:00.000Z",
+       "amount":-13000,
+       "category":{
+          "name":"Drug-store, chemist",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Drug-store, chemist"
+    },
+    {
+       "date":"2022-09-14T22:40:00.000Z",
+       "amount":-12900,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lays"
+    },
+    {
+       "date":"2022-09-14T22:50:00.000Z",
+       "amount":-160000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Achat 40€"
+    },
+    {
+       "date":"2022-09-14T23:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-09-13T22:00:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 3"
+    },
+    {
+       "date":"2022-09-13T22:10:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Misao Special"
+    },
+    {
+       "date":"2022-09-13T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"PQ x 2"
+    },
+    {
+       "date":"2022-09-13T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-09-13T22:40:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-09-13T22:50:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-12T22:00:00.000Z",
+       "amount":-4800,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Côtelettes 250g"
+    },
+    {
+       "date":"2022-09-12T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Silamangany"
+    },
+    {
+       "date":"2022-09-12T22:20:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Anana sy totokena"
+    },
+    {
+       "date":"2022-09-12T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lat 2L"
+    },
+    {
+       "date":"2022-09-12T22:40:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Voanjo 2kpk"
+    },
+    {
+       "date":"2022-09-12T22:50:00.000Z",
+       "amount":-8540,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt"
+    },
+    {
+       "date":"2022-09-11T22:00:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tacos crêpe H&amp;H"
+    },
+    {
+       "date":"2022-09-11T22:10:00.000Z",
+       "amount":-12990,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Céréales"
+    },
+    {
+       "date":"2022-09-11T22:20:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-11T22:30:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-09-10T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 4"
+    },
+    {
+       "date":"2022-09-10T22:10:00.000Z",
+       "amount":-9500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sole"
+    },
+    {
+       "date":"2022-09-10T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"PQ x 2"
+    },
+    {
+       "date":"2022-09-10T22:30:00.000Z",
+       "amount":-12800,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Akoho 1/2kg + 2400ar petit pois"
+    },
+    {
+       "date":"2022-09-10T22:40:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-09-09T22:00:00.000Z",
+       "amount":500000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-09-09T22:10:00.000Z",
+       "amount":-259000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lunettes"
+    },
+    {
+       "date":"2022-09-09T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Réparation menture"
+    },
+    {
+       "date":"2022-09-09T22:30:00.000Z",
+       "amount":-25000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kebab Reg'Halal"
+    },
+    {
+       "date":"2022-09-09T22:40:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-08T22:00:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Silamangany"
+    },
+    {
+       "date":"2022-09-08T22:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Poulet au champignon"
+    },
+    {
+       "date":"2022-09-08T22:20:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Gaufre"
+    },
+    {
+       "date":"2022-09-08T22:30:00.000Z",
+       "amount":-1400,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Dossier Sam"
+    },
+    {
+       "date":"2022-09-08T22:40:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-09-08T22:50:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-09-08T23:00:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-09-07T22:00:00.000Z",
+       "amount":-5500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Boulettes de viande 300g"
+    },
+    {
+       "date":"2022-09-07T22:10:00.000Z",
+       "amount":-3730,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Super Soja"
+    },
+    {
+       "date":"2022-09-07T22:20:00.000Z",
+       "amount":-14010,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Huile de tournesol 🌻"
+    },
+    {
+       "date":"2022-09-07T22:30:00.000Z",
+       "amount":-3470,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Le Chat Savon"
+    },
+    {
+       "date":"2022-09-07T22:40:00.000Z",
+       "amount":-2300,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bananes"
+    },
+    {
+       "date":"2022-09-07T22:50:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Misao Special"
+    },
+    {
+       "date":"2022-09-07T23:00:00.000Z",
+       "amount":-35400,
+       "category":{
+          "name":"Drug-store, chemist",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vitamine A pommade"
+    },
+    {
+       "date":"2022-09-07T23:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cris"
+    },
+    {
+       "date":"2022-09-07T23:20:00.000Z",
+       "amount":-1800,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-07T23:30:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-09-07T23:40:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-09-06T22:00:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-09-06T22:10:00.000Z",
+       "amount":-6000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tilapia"
+    },
+    {
+       "date":"2022-09-06T22:20:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Composé Tsila"
+    },
+    {
+       "date":"2022-09-06T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume &amp; totokena"
+    },
+    {
+       "date":"2022-09-05T22:00:00.000Z",
+       "amount":-2070,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Chiffon jaune"
+    },
+    {
+       "date":"2022-09-05T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bananes"
+    },
+    {
+       "date":"2022-09-05T22:20:00.000Z",
+       "amount":-6180,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yourt parf. x 6"
+    },
+    {
+       "date":"2022-09-05T22:30:00.000Z",
+       "amount":-5580,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt nat. x 6"
+    },
+    {
+       "date":"2022-09-05T22:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-09-05T22:50:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tacos Extra Pizza 🍕"
+    },
+    {
+       "date":"2022-09-05T23:00:00.000Z",
+       "amount":-9500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Côtelettes 500g"
+    },
+    {
+       "date":"2022-09-05T23:10:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Muscu"
+    },
+    {
+       "date":"2022-09-05T23:20:00.000Z",
+       "amount":-2100,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-09-04T22:00:00.000Z",
+       "amount":-28000,
+       "category":{
+          "name":"Drug-store, chemist",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Genouillère"
+    },
+    {
+       "date":"2022-09-04T22:10:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt maison x 4"
+    },
+    {
+       "date":"2022-09-04T22:20:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristalline"
+    },
+    {
+       "date":"2022-09-04T22:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Croissant jambon fromage"
+    },
+    {
+       "date":"2022-09-04T22:40:00.000Z",
+       "amount":-1400,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Donate + Lait"
+    },
+    {
+       "date":"2022-09-04T22:50:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-09-03T22:00:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-09-03T22:10:00.000Z",
+       "amount":-6000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Misao"
+    },
+    {
+       "date":"2022-09-03T22:20:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit pois + coson"
+    },
+    {
+       "date":"2022-09-02T22:00:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Voanjo"
+    },
+    {
+       "date":"2022-09-02T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Silamangany"
+    },
+    {
+       "date":"2022-09-02T22:20:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Gourde Faniry"
+    },
+    {
+       "date":"2022-09-02T22:30:00.000Z",
+       "amount":-30000,
+       "category":{
+          "name":"Credit",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Credit"
+    },
+    {
+       "date":"2022-09-02T22:40:00.000Z",
+       "amount":-55000,
+       "category":{
+          "name":"Drug-store, chemist",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Consultation ophtalmologue"
+    },
+    {
+       "date":"2022-09-02T22:50:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mofofasy"
+    },
+    {
+       "date":"2022-09-01T22:00:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tsaramaso"
+    },
+    {
+       "date":"2022-09-01T22:10:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Burger"
+    },
+    {
+       "date":"2022-09-01T22:20:00.000Z",
+       "amount":-2100,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cristaline"
+    },
+    {
+       "date":"2022-09-01T22:30:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-08-31T22:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 6"
+    },
+    {
+       "date":"2022-08-31T22:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bananes"
+    },
+    {
+       "date":"2022-08-31T22:20:00.000Z",
+       "amount":-8500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bol renversé + hena bol (3500) Tsila"
+    },
+    {
+       "date":"2022-08-31T22:30:00.000Z",
+       "amount":-2100,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe chinoise Daniel"
+    },
+    {
+       "date":"2022-08-31T22:40:00.000Z",
+       "amount":-1700,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Donate + Lait"
+    },
+    {
+       "date":"2022-08-31T22:50:00.000Z",
+       "amount":600000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-08-31T23:00:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-31T23:10:00.000Z",
+       "amount":-5500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume &amp; totokena"
+    },
+    {
+       "date":"2022-08-31T23:20:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-30T22:00:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 🍚"
+    },
+    {
+       "date":"2022-08-30T22:10:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Aina"
+    },
+    {
+       "date":"2022-08-30T22:20:00.000Z",
+       "amount":-1800,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Collation"
+    },
+    {
+       "date":"2022-08-30T22:30:00.000Z",
+       "amount":-1700,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Donate + Lait"
+    },
+    {
+       "date":"2022-08-30T22:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-08-30T22:50:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Achard"
+    },
+    {
+       "date":"2022-08-30T23:00:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume &amp; totokena"
+    },
+    {
+       "date":"2022-08-30T23:10:00.000Z",
+       "amount":50000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-08-29T22:00:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe chinoise Chez tatie"
+    },
+    {
+       "date":"2022-08-29T22:10:00.000Z",
+       "amount":10000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-08-29T22:20:00.000Z",
+       "amount":-7500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-08-29T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Fraise"
+    },
+    {
+       "date":"2022-08-29T22:40:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Active sport, fitness"
+    },
+    {
+       "date":"2022-08-29T22:50:00.000Z",
+       "amount":-2700,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-28T22:00:00.000Z",
+       "amount":-9200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Côtelettes 400g + 1600"
+    },
+    {
+       "date":"2022-08-28T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Patachou"
+    },
+    {
+       "date":"2022-08-28T22:20:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Collation"
+    },
+    {
+       "date":"2022-08-28T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-08-28T22:40:00.000Z",
+       "amount":-1700,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-27T22:00:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Huile"
+    },
+    {
+       "date":"2022-08-27T22:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yourt maison x 2"
+    },
+    {
+       "date":"2022-08-27T22:20:00.000Z",
+       "amount":-2700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Haricot vert"
+    },
+    {
+       "date":"2022-08-27T22:30:00.000Z",
+       "amount":-9000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Akoho 1/2kg"
+    },
+    {
+       "date":"2022-08-27T22:40:00.000Z",
+       "amount":-4600,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lat 2L"
+    },
+    {
+       "date":"2022-08-27T22:50:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 3"
+    },
+    {
+       "date":"2022-08-26T22:00:00.000Z",
+       "amount":-7000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Légumes sautés+ steak"
+    },
+    {
+       "date":"2022-08-26T22:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-26T22:20:00.000Z",
+       "amount":-16000,
+       "category":{
+          "name":"Missing",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sac cantine"
+    },
+    {
+       "date":"2022-08-26T22:30:00.000Z",
+       "amount":-16300,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Masque"
+    },
+    {
+       "date":"2022-08-26T22:40:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-25T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Health and beauty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Paracetamol"
+    },
+    {
+       "date":"2022-08-25T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Silamangany"
+    },
+    {
+       "date":"2022-08-25T22:20:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Credit",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Credit"
+    },
+    {
+       "date":"2022-08-25T22:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tongo kiso &amp; anana"
+    },
+    {
+       "date":"2022-08-25T22:40:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Futsal"
+    },
+    {
+       "date":"2022-08-25T22:50:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Public transport"
+    },
+    {
+       "date":"2022-08-25T23:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Choux + viandes hachées"
+    },
+    {
+       "date":"2022-08-25T23:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-25T23:20:00.000Z",
+       "amount":-5150,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt x 5"
+    },
+    {
+       "date":"2022-08-25T23:30:00.000Z",
+       "amount":-3010,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti"
+    },
+    {
+       "date":"2022-08-25T23:40:00.000Z",
+       "amount":-16830,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Déodorant"
+    },
+    {
+       "date":"2022-08-24T22:00:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 1kg"
+    },
+    {
+       "date":"2022-08-24T22:10:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Queen's"
+    },
+    {
+       "date":"2022-08-24T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Liquide vaisselle"
+    },
+    {
+       "date":"2022-08-24T22:30:00.000Z",
+       "amount":-6400,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-08-23T22:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-23T22:10:00.000Z",
+       "amount":-6000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Collation"
+    },
+    {
+       "date":"2022-08-23T22:20:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti bolognaise"
+    },
+    {
+       "date":"2022-08-23T22:30:00.000Z",
+       "amount":-2700,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana + ronono + ramanonaka"
+    },
+    {
+       "date":"2022-08-23T22:40:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-23T22:50:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"PQ x 2"
+    },
+    {
+       "date":"2022-08-23T23:00:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain x 4"
+    },
+    {
+       "date":"2022-08-23T23:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Souoe légume"
+    },
+    {
+       "date":"2022-08-22T22:00:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Retaillage"
+    },
+    {
+       "date":"2022-08-22T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Koba x 2"
+    },
+    {
+       "date":"2022-08-22T22:20:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-08-22T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt x 2"
+    },
+    {
+       "date":"2022-08-22T22:40:00.000Z",
+       "amount":-11500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti carbonara"
+    },
+    {
+       "date":"2022-08-22T22:50:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain au raisin + Gaufre"
+    },
+    {
+       "date":"2022-08-22T23:00:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-22T23:10:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-08-22T23:20:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Misao"
+    },
+    {
+       "date":"2022-08-22T23:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-21T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 4"
+    },
+    {
+       "date":"2022-08-21T22:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Grefy x 10"
+    },
+    {
+       "date":"2022-08-21T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt"
+    },
+    {
+       "date":"2022-08-21T22:30:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-08-21T22:40:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Croissant jambon fromage"
+    },
+    {
+       "date":"2022-08-21T22:50:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-21T23:00:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-08-20T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kawatry"
+    },
+    {
+       "date":"2022-08-20T22:10:00.000Z",
+       "amount":-4500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Porc 250g"
+    },
+    {
+       "date":"2022-08-18T22:00:00.000Z",
+       "amount":-15800,
+       "category":{
+          "name":"Alcohol, tobacco",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Papa"
+    },
+    {
+       "date":"2022-08-18T22:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-08-18T22:20:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Croissant jambon fromage"
+    },
+    {
+       "date":"2022-08-18T22:30:00.000Z",
+       "amount":-40000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-08-18T22:40:00.000Z",
+       "amount":-3100,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain comps"
+    },
+    {
+       "date":"2022-08-18T22:50:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-18T23:00:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-18T23:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Active sport, fitness"
+    },
+    {
+       "date":"2022-08-17T22:00:00.000Z",
+       "amount":-4600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ste1k"
+    },
+    {
+       "date":"2022-08-17T22:10:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Fruits"
+    },
+    {
+       "date":"2022-08-17T22:20:00.000Z",
+       "amount":-6000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Côtelettes &amp; Tsaramaso"
+    },
+    {
+       "date":"2022-08-17T22:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Aina"
+    },
+    {
+       "date":"2022-08-17T22:40:00.000Z",
+       "amount":-2100,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-17T22:50:00.000Z",
+       "amount":-4500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Sam"
+    },
+    {
+       "date":"2022-08-17T23:00:00.000Z",
+       "amount":-7200,
+       "category":{
+          "name":"Missing",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tsimena"
+    },
+    {
+       "date":"2022-08-16T22:00:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Salade tropicale Jade"
+    },
+    {
+       "date":"2022-08-16T22:10:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Croissant jambon fromage"
+    },
+    {
+       "date":"2022-08-16T22:20:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lait 1L"
+    },
+    {
+       "date":"2022-08-16T22:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-16T22:40:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Sam"
+    },
+    {
+       "date":"2022-08-16T22:50:00.000Z",
+       "amount":-12700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cassoulet"
+    },
+    {
+       "date":"2022-08-15T22:00:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-15T22:10:00.000Z",
+       "amount":-800,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Katsaka"
+    },
+    {
+       "date":"2022-08-15T22:20:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny ananan"
+    },
+    {
+       "date":"2022-08-15T22:30:00.000Z",
+       "amount":-4400,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-08-14T22:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Arachides x3  kpk"
+    },
+    {
+       "date":"2022-08-14T22:10:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Côtelettes+ légumes"
+    },
+    {
+       "date":"2022-08-14T22:20:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Credit",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Credit"
+    },
+    {
+       "date":"2022-08-14T22:30:00.000Z",
+       "amount":-5880,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt x 6"
+    },
+    {
+       "date":"2022-08-14T22:40:00.000Z",
+       "amount":-5170,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain de mie"
+    },
+    {
+       "date":"2022-08-14T22:50:00.000Z",
+       "amount":-9440,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Huile"
+    },
+    {
+       "date":"2022-08-14T23:00:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Extra pizza (Rolls+Tacos)"
+    },
+    {
+       "date":"2022-08-14T23:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Realty",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Cable"
+    },
+    {
+       "date":"2022-08-14T23:20:00.000Z",
+       "amount":-2700,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais kiama"
+    },
+    {
+       "date":"2022-08-14T23:30:00.000Z",
+       "amount":-6000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Za &amp; Sam"
+    },
+    {
+       "date":"2022-08-14T23:40:00.000Z",
+       "amount":-2700,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-13T22:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe spec"
+    },
+    {
+       "date":"2022-08-13T22:10:00.000Z",
+       "amount":-12000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Colis maman"
+    },
+    {
+       "date":"2022-08-13T22:20:00.000Z",
+       "amount":-12000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Légumes sautés+ steak"
+    },
+    {
+       "date":"2022-08-13T22:30:00.000Z",
+       "amount":-4800,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-13T22:40:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Menakely x 3"
+    },
+    {
+       "date":"2022-08-12T22:00:00.000Z",
+       "amount":600000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Wage, invoices"
+    },
+    {
+       "date":"2022-08-12T22:10:00.000Z",
+       "amount":-30000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Rak"
+    },
+    {
+       "date":"2022-08-12T22:20:00.000Z",
+       "amount":-150000,
+       "category":{
+          "name":"Others",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Akti+"
+    },
+    {
+       "date":"2022-08-12T22:30:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Missing",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"House phone"
+    },
+    {
+       "date":"2022-08-12T22:40:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Totokeba sy haricot vert"
+    },
+    {
+       "date":"2022-08-12T22:50:00.000Z",
+       "amount":-2700,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soja"
+    },
+    {
+       "date":"2022-08-11T22:00:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tacos Extra Pizza 🍕"
+    },
+    {
+       "date":"2022-08-11T22:10:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soupe chinoise Tsila"
+    },
+    {
+       "date":"2022-08-11T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly trano"
+    },
+    {
+       "date":"2022-08-11T22:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-11T22:40:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-11T22:50:00.000Z",
+       "amount":-7200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Creme fraîche + lardons+2oeufs"
+    },
+    {
+       "date":"2022-08-10T22:00:00.000Z",
+       "amount":35000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Lottery, gambling"
+    },
+    {
+       "date":"2022-08-10T22:10:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Active sport, fitness",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Foot Yandy"
+    },
+    {
+       "date":"2022-08-10T22:20:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary"
+    },
+    {
+       "date":"2022-08-10T22:30:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pizza"
+    },
+    {
+       "date":"2022-08-10T22:40:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-08-10T22:50:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-10T23:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Fromage"
+    },
+    {
+       "date":"2022-08-10T23:10:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kenatoto &amp; Tsaramaso"
+    },
+    {
+       "date":"2022-08-10T23:20:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-10T23:30:00.000Z",
+       "amount":-600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-10T23:40:00.000Z",
+       "amount":-9000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-08-09T22:00:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Poker"
+    },
+    {
+       "date":"2022-08-09T22:10:00.000Z",
+       "amount":-500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Anana"
+    },
+    {
+       "date":"2022-08-09T22:20:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-09T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Croissant jambon fromage 3.500ar + ga..."
+    },
+    {
+       "date":"2022-08-09T22:40:00.000Z",
+       "amount":50000,
+       "category":{
+          "name":"Rental income",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Reste loyer"
+    },
+    {
+       "date":"2022-08-09T22:50:00.000Z",
+       "amount":-600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit déjeuner"
+    },
+    {
+       "date":"2022-08-09T23:00:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kabaka"
+    },
+    {
+       "date":"2022-08-08T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bananes"
+    },
+    {
+       "date":"2022-08-08T22:10:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Poker"
+    },
+    {
+       "date":"2022-08-08T22:20:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-08T22:30:00.000Z",
+       "amount":-4500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Petit pâté 3000ar + gaufre"
+    },
+    {
+       "date":"2022-08-08T22:40:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lait"
+    },
+    {
+       "date":"2022-08-08T22:50:00.000Z",
+       "amount":-3700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume &amp; totokena"
+    },
+    {
+       "date":"2022-08-08T23:00:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain x 2"
+    },
+    {
+       "date":"2022-08-08T23:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti"
+    },
+    {
+       "date":"2022-08-08T23:20:00.000Z",
+       "amount":-4400,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Viande hachée 200g + epices"
+    },
+    {
+       "date":"2022-08-07T22:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Patachou"
+    },
+    {
+       "date":"2022-08-07T22:10:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Faty antoka tsiro chinoise"
+    },
+    {
+       "date":"2022-08-07T22:20:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Faty antoka tsiro"
+    },
+    {
+       "date":"2022-08-07T22:30:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny ananan"
+    },
+    {
+       "date":"2022-08-07T22:40:00.000Z",
+       "amount":-1500,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Grefy"
+    },
+    {
+       "date":"2022-08-07T22:50:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-07T23:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ovy sy patsa"
+    },
+    {
+       "date":"2022-08-07T23:10:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-06T22:00:00.000Z",
+       "amount":-69000,
+       "category":{
+          "name":"Missing",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Buky x 5"
+    },
+    {
+       "date":"2022-08-06T22:10:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ail + Tomate"
+    },
+    {
+       "date":"2022-08-06T22:20:00.000Z",
+       "amount":-1000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oignon"
+    },
+    {
+       "date":"2022-08-06T22:30:00.000Z",
+       "amount":-7500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tsraamaso sy côtelette"
+    },
+    {
+       "date":"2022-08-06T22:40:00.000Z",
+       "amount":-7900,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Flocon d'avoine"
+    },
+    {
+       "date":"2022-08-06T22:50:00.000Z",
+       "amount":-5450,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt x 5 + 300bag"
+    },
+    {
+       "date":"2022-08-06T23:00:00.000Z",
+       "amount":-9300,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Yaourt nat. x 10"
+    },
+    {
+       "date":"2022-08-06T23:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais nanatitra Nomena"
+    },
+    {
+       "date":"2022-08-06T23:20:00.000Z",
+       "amount":-32000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savons"
+    },
+    {
+       "date":"2022-08-06T23:30:00.000Z",
+       "amount":-1200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 2"
+    },
+    {
+       "date":"2022-08-05T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"PQ x 2"
+    },
+    {
+       "date":"2022-08-05T22:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Coifs"
+    },
+    {
+       "date":"2022-08-05T22:20:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Porte feuille"
+    },
+    {
+       "date":"2022-08-05T22:30:00.000Z",
+       "amount":-15700,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pants &amp; bag"
+    },
+    {
+       "date":"2022-08-05T22:40:00.000Z",
+       "amount":-18000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Jogs x 2"
+    },
+    {
+       "date":"2022-08-05T22:50:00.000Z",
+       "amount":20000,
+       "category":{
+          "name":"Lending, renting",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Lending, renting"
+    },
+    {
+       "date":"2022-08-05T23:00:00.000Z",
+       "amount":14000,
+       "category":{
+          "name":"Lending, renting",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Tsiky → Moi : Extra pizza"
+    },
+    {
+       "date":"2022-08-05T23:10:00.000Z",
+       "amount":-1800,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain x 3"
+    },
+    {
+       "date":"2022-08-04T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pao"
+    },
+    {
+       "date":"2022-08-04T22:10:00.000Z",
+       "amount":12000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Win poker"
+    },
+    {
+       "date":"2022-08-04T22:20:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Patachou"
+    },
+    {
+       "date":"2022-08-04T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Entre côte+ legume"
+    },
+    {
+       "date":"2022-08-04T22:40:00.000Z",
+       "amount":120000,
+       "category":{
+          "name":"Sale",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Ram 8go"
+    },
+    {
+       "date":"2022-08-04T22:50:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Aina"
+    },
+    {
+       "date":"2022-08-04T23:00:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain comps"
+    },
+    {
+       "date":"2022-08-04T23:10:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kenamely x 4"
+    },
+    {
+       "date":"2022-08-04T23:20:00.000Z",
+       "amount":-4400,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Ovy sy totokena"
+    },
+    {
+       "date":"2022-08-03T22:00:00.000Z",
+       "amount":10000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Poker"
+    },
+    {
+       "date":"2022-08-03T22:10:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Lottery, gambling",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Poker"
+    },
+    {
+       "date":"2022-08-03T22:20:00.000Z",
+       "amount":14000,
+       "category":{
+          "name":"Lending, renting",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Ariry → Moi : Extra pizza"
+    },
+    {
+       "date":"2022-08-03T22:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-03T22:40:00.000Z",
+       "amount":-4700,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Totokena 200g + 1100ar epices (spa.bo..."
+    },
+    {
+       "date":"2022-08-03T22:50:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Spaghetti"
+    },
+    {
+       "date":"2022-08-03T23:00:00.000Z",
+       "amount":-500,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Mouchoirs"
+    },
+    {
+       "date":"2022-08-03T23:10:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain comps"
+    },
+    {
+       "date":"2022-08-03T23:20:00.000Z",
+       "amount":-3600,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Totokena (Trano)"
+    },
+    {
+       "date":"2022-08-03T23:30:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kenamely x 4"
+    },
+    {
+       "date":"2022-08-02T22:00:00.000Z",
+       "amount":-2200,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sucre 0.5"
+    },
+    {
+       "date":"2022-08-02T22:10:00.000Z",
+       "amount":-5200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-08-02T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Chicolatine"
+    },
+    {
+       "date":"2022-08-02T22:30:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny ananan"
+    },
+    {
+       "date":"2022-08-02T22:40:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-02T22:50:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lait 1L"
+    },
+    {
+       "date":"2022-08-02T23:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lave vaisselle"
+    },
+    {
+       "date":"2022-08-02T23:10:00.000Z",
+       "amount":-3900,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Legume &amp; totokena"
+    },
+    {
+       "date":"2022-08-02T23:20:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kenamely x 4"
+    },
+    {
+       "date":"2022-08-02T23:30:00.000Z",
+       "amount":-8900,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Akoho sy haricot vert"
+    },
+    {
+       "date":"2022-08-01T22:00:00.000Z",
+       "amount":-500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kabaka"
+    },
+    {
+       "date":"2022-08-01T22:10:00.000Z",
+       "amount":-9500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Sole 500g + legume 1200ar"
+    },
+    {
+       "date":"2022-08-01T22:20:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Croissant jambon fromage"
+    },
+    {
+       "date":"2022-08-01T22:30:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Grefy x 10"
+    },
+    {
+       "date":"2022-08-01T22:40:00.000Z",
+       "amount":150000,
+       "category":{
+          "name":"Lending, renting",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Maman → Moi : Frais Alan &amp; cousins"
+    },
+    {
+       "date":"2022-08-01T22:50:00.000Z",
+       "amount":43000,
+       "category":{
+          "name":"Lending, renting",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Tsiky Pride → Moi : Extra pizza"
+    },
+    {
+       "date":"2022-08-01T23:00:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Tsiky pride"
+    },
+    {
+       "date":"2022-08-01T23:10:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny anana"
+    },
+    {
+       "date":"2022-08-01T23:20:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kabaka"
+    },
+    {
+       "date":"2022-08-01T23:30:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kenamely x 4"
+    },
+    {
+       "date":"2022-08-01T23:40:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Tsiky Pride : Extra pizza"
+    },
+    {
+       "date":"2022-08-01T23:50:00.000Z",
+       "amount":-24000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Tsiky Pride : Extra pizza"
+    },
+    {
+       "date":"2022-07-31T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bananes"
+    },
+    {
+       "date":"2022-07-31T22:10:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Patachou"
+    },
+    {
+       "date":"2022-07-31T22:20:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Croissant jambon fromage"
+    },
+    {
+       "date":"2022-07-31T22:30:00.000Z",
+       "amount":-3500,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Aina"
+    },
+    {
+       "date":"2022-07-31T22:40:00.000Z",
+       "amount":4000,
+       "category":{
+          "name":"Lending, renting",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Aina → Moi : Extra pizza"
+    },
+    {
+       "date":"2022-07-31T22:50:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Lait 1L"
+    },
+    {
+       "date":"2022-07-31T23:00:00.000Z",
+       "amount":-1800,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain x 3"
+    },
+    {
+       "date":"2022-07-31T23:10:00.000Z",
+       "amount":-3200,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kaly"
+    },
+    {
+       "date":"2022-07-30T22:00:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Comps x2"
+    },
+    {
+       "date":"2022-07-30T22:10:00.000Z",
+       "amount":-10000,
+       "category":{
+          "name":"Groceries",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 4kg"
+    },
+    {
+       "date":"2022-07-30T22:20:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Atody"
+    },
+    {
+       "date":"2022-07-30T22:30:00.000Z",
+       "amount":-9600,
+       "category":{
+          "name":"Kaly perso",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Tsaramaso sy henaks"
+    },
+    {
+       "date":"2022-07-30T22:40:00.000Z",
+       "amount":-23000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Maman : Frais Fred"
+    },
+    {
+       "date":"2022-07-30T22:50:00.000Z",
+       "amount":-25000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais taxi Alan &amp; cousins"
+    },
+    {
+       "date":"2022-07-30T23:00:00.000Z",
+       "amount":-30000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Maman : Kaly Alan &amp; cousins"
+    },
+    {
+       "date":"2022-07-30T23:10:00.000Z",
+       "amount":-150000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Maman : Frais Alan &amp; cousins"
+    },
+    {
+       "date":"2022-07-30T23:20:00.000Z",
+       "amount":-20000,
+       "category":{
+          "name":"Credit",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Dépôt Mvola creds"
+    },
+    {
+       "date":"2022-07-30T23:30:00.000Z",
+       "amount":-11000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Huile"
+    },
+    {
+       "date":"2022-07-30T23:40:00.000Z",
+       "amount":-13400,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Haricot vert sy atikena"
+    },
+    {
+       "date":"2022-07-30T23:50:00.000Z",
+       "amount":-4300,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Pain x 4 + mofo gasy"
+    },
+    {
+       "date":"2022-07-29T22:00:00.000Z",
+       "amount":-1600,
+       "category":{
+          "name":"Hygiène",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Savon"
+    },
+    {
+       "date":"2022-07-29T22:10:00.000Z",
+       "amount":-2500,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Oeufs x 5"
+    },
+    {
+       "date":"2022-07-29T22:20:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Riz 2kg"
+    },
+    {
+       "date":"2022-07-29T22:30:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Kaly",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Kabaka"
+    },
+    {
+       "date":"2022-07-29T22:40:00.000Z",
+       "amount":-15650,
+       "category":{
+          "name":"Goûté zandry",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Rentrée de vacance Alan"
+    },
+    {
+       "date":"2022-07-29T22:50:00.000Z",
+       "amount":-5000,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Extra pizza"
+    },
+    {
+       "date":"2022-07-29T23:00:00.000Z",
+       "amount":-2400,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Za sy Nomena"
+    },
+    {
+       "date":"2022-07-29T23:10:00.000Z",
+       "amount":-2000,
+       "category":{
+          "name":"Clothes &amp; shoes",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Bacra"
+    },
+    {
+       "date":"2022-07-29T23:20:00.000Z",
+       "amount":-2730,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Soja"
+    },
+    {
+       "date":"2022-07-29T23:30:00.000Z",
+       "amount":-6110,
+       "category":{
+          "name":"Collation",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Farilac"
+    },
+    {
+       "date":"2022-07-29T23:40:00.000Z",
+       "amount":-14090,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Montfleuti"
+    },
+    {
+       "date":"2022-07-29T23:50:00.000Z",
+       "amount":-2800,
+       "category":{
+          "name":"Petit déjeuner",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Vary amin'ny ananan"
+    },
+    {
+       "date":"2022-07-30T00:00:00.000Z",
+       "amount":-3000,
+       "category":{
+          "name":"Public transport",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Frais Sam"
+    },
+    {
+       "date":"2022-07-28T22:00:00.000Z",
+       "amount":-4000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Aina : Extra pizza"
+    },
+    {
+       "date":"2022-07-28T22:10:00.000Z",
+       "amount":-14000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Ariry : Extra pizza"
+    },
+    {
+       "date":"2022-07-28T22:20:00.000Z",
+       "amount":-14000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Tsiky Pride : Extra pizza"
+    },
+    {
+       "date":"2022-07-28T22:30:00.000Z",
+       "amount":-14000,
+       "category":{
+          "name":"Loan, interests",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Moi → Tsiky : Extra pizza"
+    },
+    {
+       "date":"2022-07-28T22:40:00.000Z",
+       "amount":-14000,
+       "category":{
+          "name":"Restaurant, fast-food",
+          "id":-1,
+          "type":"expense"
+       },
+       "description":"Extra pizza"
+    },
+    {
+       "date":"2022-07-28T22:50:00.000Z",
+       "amount":600000,
+       "category":{
+          "name":"Wage, invoices",
+          "id":-1,
+          "type":"income"
+       },
+       "description":"Salaire Juillet"
+    }
+ ]

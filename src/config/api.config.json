@@ -1,0 +1,28 @@
+{
+  "BASE_URL": "http://localhost:9000/",
+  "Login": "api/authentification",
+  "Transaction": {
+    "FindAll": "api/transactions/",
+    "Add": "api/transactions/",
+    "Update": "api/transactions/",
+    "Delete": "api/transactions/",
+    "Import": "api/transactions/import",
+    "Incomes": {
+      "FindById": "api/menus",
+      "FindAll": "api/incomes/",
+      "Add": "api/menus",
+      "Edit": "api/menus",
+      "Delete": "api/menus"
+    }
+  },
+  "Category": {
+    "FindAll": "api/categories",
+    "Import": "api/categories/import",
+    "Add": "api/categories/",
+    "Update": "api/categories/",
+    "Delete": "api/categories/"
+  },
+  "Dashboard": {
+    "TotalTransactionGroupedByCategory": "api/dashboard/total-transaction/grouped-by-category"
+  }
+}
